@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Admin Registration</title>
+		<link rel="stylesheet" href="register.css" />
+	</head>
+	<body>
+		<main>
+			<form action="register.php" method="post" id="register-form">
+				<h1>Admin Registration</h1>
+				<div class="form-group">
+					<input type="text" name="username" placeholder="Username" required/>
+					<span class="text-red invisible">*</span>
+				</div>
+				<div class="form-group">
+					<input type="password" name="password" placeholder="Password" required/>
+					<span class="text-red invisible">*</span>
+				</div>
+				<div class="form-group">
+					<input type="password" name="confirm_password" placeholder="Confirm Password" required/>
+					<span class="text-red invisible">*</span>
+				</div>
+				<input type="submit" value="Submit" class="submit-btn"/>
+			</form>
+			<a href="hadelandheba.php" class="no-decoration">Back To Home</a>
+		</main>
+	</body>
+</html>

@@ -1,0 +1,59 @@
+{
+    
+    "news": [
+        {
+          "title": "BREAKFAST",
+          "imgurl": "media/bancake.jpg",
+          "content":  "The chef is making pancakes for breakfast today!!"
+        },
+        {
+          "title": "LUNCH",
+          "imgurl": "media/pasta.jpg",
+          "content": "Lunch menu will be here soon! Keep waiting"
+        },
+        {
+          "title": "TREATS",
+          "imgurl": "media/pudding.jpg",
+          "content": "Latest updates: Free drinks with all chef's special today"
+        }
+      ],
+
+
+    "hovbox": {
+        "hover_text": "Hover here to learn how to make the perfect pasta....",
+        "blue_box_text": "pasta recipe",
+        "image_url": "media/pasta.jpg",
+        "content": " Use a large pan/pot with a lid and fry the mince in neutral oil on high heat for a couple of minutes so that the mince gets a little frying surface and liquid."
+
+    },
+    "white_box3": {
+        "header_text": "List of must have in your kitchen:",
+        "list_items": ["Flour", "Sugar", "Salt", "Olive Oil", "Butter"],
+        "links": [
+            {"text": "Link 1", "url": "#"},
+            {"text": "Link 2", "url": "#"}
+        ]
+    },
+    "box5": {
+        "header_text": "personal tip",
+        "content": "Having fun with friends should not be expensive nor stressing, the links below shows som way to go in low budget",
+        "links": [
+            {
+                "url": "#",
+                "text": "Länk 1"
+            },
+            {
+                "url": "#",
+                "text": "Länk 2"
+            }
+        ]
+    },
+    "box7": {
+        "image_url": "media/pudding.jpg"
+
+    }
+
+    
+    
+}  
+   

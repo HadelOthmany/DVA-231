@@ -1,0 +1,59 @@
+{
+    
+    "news": [
+        {
+          "title": "Tuesday",
+          "imgurl": "media/blackcar.jpg",
+          "content":  "The new Tesla is here"
+        },
+        {
+          "title": "wednesday",
+          "imgurl": "media/greencar.jpg",
+          "content": "Work hard but relax you are going to die"
+        },
+        {
+          "title": "Thursday",
+          "imgurl": "media/redcar.jpg",
+          "content": "Strong motor with larg car with seven seats"
+        }
+      ],
+
+
+    "hovbox": {
+        "hover_text": "Hover here to know more about this car...",
+        "blue_box_text": "Toyota",
+        "image_url": "media/blackcar.jpg",
+        "content": "Strong motor with larg car with seven seats"
+
+    },
+    "white_box3": {
+        "header_text": "Most sold cars in the market",
+        "list_items": ["Audi", "volvo", "Tesla", "Nissan", "volxwagen"],
+        "links": [
+            {"text": "Link 1", "url": "#"},
+            {"text": "Link 2", "url": "#"}
+        ]
+    },
+    "box5": {
+        "header_text": "personal tip",
+        "content": "Having fun with friends should not be expensive nor stressing, the links below shows som way to go in low budget",
+        "links": [
+            {
+                "url": "#",
+                "text": "Länk 1"
+            },
+            {
+                "url": "#",
+                "text": "Länk 2"
+            }
+        ]
+    },
+    "box7": {
+        "image_url": "media/greencar.jpg"
+
+    }
+
+    
+    
+}  
+   
